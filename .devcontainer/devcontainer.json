@@ -1,0 +1,8 @@
+"features": {
+  "ghcr.io/devcontainers/features/java:1": {
+    "version": "none",
+    "installMaven": "true",
+    "installGradle": "false"
+  },
+  "ghcr.io/devcontainers-contrib/features/ant-sdkman:2": {}
+},
